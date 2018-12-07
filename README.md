@@ -1,5 +1,9 @@
 # travel
 
+![demo](static/img/主页.jpg)
+![demo](static/img/城市选择.jpg)
+![demo](static/img/详情页.jpg)
+
 > A Vue.js project
 
 ## Build Setup
